@@ -1,3 +1,5 @@
+<img align="right" src="https://user-images.githubusercontent.com/60224074/117709076-e6373f80-b1a6-11eb-8b18-71e439e32d61.png" width="300"/>
+
 ### Oii! Eu sou edrush404 👋
 
 - 🔭 Hoje estudo programação
